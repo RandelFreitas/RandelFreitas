@@ -1,5 +1,6 @@
 ### Hi there 👋
 [Linkedin](https://www.linkedin.com/in/randel-freitas/)
+[Portifólio](https://randelfreitas.github.io/portifolio/)
 
 <!--
 **RandelFreitas/RandelFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
